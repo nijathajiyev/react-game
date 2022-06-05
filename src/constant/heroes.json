@@ -1,0 +1,8 @@
+{
+  "heroes": [
+    { "name": "Spidermen", "power": 113, "img":"https://cdn.pocket-lint.com/r/s/1200x630/assets/images/159643-tv-news-spider-man-no-way-home-image1-dryautoefj.jpg" },
+    { "name": "Ironman", "power": 117, "img":"https://cdn.webtekno.com/media/cache/content_detail_v2/article/102228/iron-man-marvel-filmlerine-nasil-geri-donebilir-1605794286.jpg" },
+    { "name": "Thor", "power": 116, "img":"https://sinemahanedani.com/wp-content/uploads/2021/05/Thor-Kimdir-En-Guclu-Yenilmez-Olabilir-Sinema-Hanedani-3-850x480.jpg" },
+    { "name": "Dr.Strange", "power": 119, "img":"https://www.motosikletsitesi.com/wp-content/uploads/2021/12/doktor-film-strange.jpeg" }
+  ]
+}
